@@ -20,6 +20,7 @@ import view.MenuView;
  * @author Darren
  */
 public class Main {
+    //test
     public static void main(String[] args) {
         ArrayList<User> user = new ArrayList<>();
         ArrayList<MataKuliah> mk = new ArrayList<>();
